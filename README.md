@@ -1,4 +1,3 @@
-# Task_restaurant
 
 ## Technologies Used
 - Frontend: Vue 3, Tailwind CSS
