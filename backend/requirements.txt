@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+python-decouple
+pydantic<2.0
+pymongo[srv]==3.9
