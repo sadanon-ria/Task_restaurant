@@ -1,10 +1,5 @@
 # Task_restaurant
 
-Task_restaurant/
-├── backend/ # FastAPI app
-├── frontend/ # Vue 3 + Tailwind Css
-└── README.md # This file
-
 ## Technologies Used
 - Frontend: Vue 3, Tailwind CSS
 - Backend: FastAPI, Python
