@@ -1,11 +1,19 @@
 Frontend
 
-Frameworks used - Vue3 - Tailwind CSS
+Frameworks used 
+  - Vue3
+  - Tailwind CSS
 
-Setup Instructions - git clone https://github.com/sadanon-ria/restaurant_backend.git - cd restaurant_backend - npm install
+Setup Instructions
+  - git clone https://github.com/sadanon-ria/restaurant_backend.git
+  - cd restaurant_backend
+  - npm install
 
-Run the server - npm run serve
+Run the server
+  - npm run serve
 
-Test - http://localhost:8080/
+Test
+  - http://localhost:8080/
 
-Known Issues / Limitations -
+Known Issues / Limitations
+  - ไม่มีข้อมูลรูปภาพเนื่องจาก Foursquare api โควตาหมด
