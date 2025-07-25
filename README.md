@@ -6,7 +6,6 @@
 - Database: MongoDB
 - API: Foursquare
 
-## Setup Instructions
 # Backend
 See [backend/README.md](./backend/README.md)
 # Frontend
